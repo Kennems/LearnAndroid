@@ -37,3 +37,8 @@
 	path = LearnJetpack
 	url = https://github.com/Kennems/LearnJetpack.git
 	branch = main
+
+[submodule "LearnJetpack"]
+    path = LearnJetpack
+    url = https://github.com/Kennems/LearnJetpack.git
+    branch = main
